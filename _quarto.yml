@@ -9,7 +9,7 @@ website:
         text: Home
       - href: about.qmd
         text: mypage
-      - href: docs/Saurabh_CV.pdf
+      - href: files/Saurabh_CV.pdf
         text: CV
 format:
   html:
