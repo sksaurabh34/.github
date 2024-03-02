@@ -1,14 +1,16 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: quarto-site
 website:
   title: "saurabhkrsingh.github.io"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: mypage
+      - href: docs/Saurabh_CV.pdf
+        text: CV
 format:
   html:
     theme: cosmo
