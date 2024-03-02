@@ -2,9 +2,9 @@ project:
   type: website
   output-dir: quarto-site
 website:
-  title: "saurabhkrsingh.github.io"
+  title: "sksaurabh34.github.io"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: about.qmd
