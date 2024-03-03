@@ -1,7 +1,6 @@
 project:
   type: website
-  favicon: "imag/saurabh.jpg"
-  output-dir: quarto-site
+  output-dir: docs
 website:
   title: "sksaurabh34.github.io"
   navbar:
