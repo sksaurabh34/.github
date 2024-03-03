@@ -1,5 +1,6 @@
 project:
   type: website
+  favicon: "imag/saurabh.jpg"
   output-dir: quarto-site
 website:
   title: "sksaurabh34.github.io"
